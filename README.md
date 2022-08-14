@@ -14,7 +14,7 @@ Text editor app that runs in the browser & meets PWA criteria. Features data per
 
 ## Preview 📸
 
-![Visual]()
+![Visual](./assets/JATE.png)
 
 ## Installation 🔐
 
@@ -30,4 +30,4 @@ Made for developers that would like to create notes or code snippets with or wit
 
 **[GitHub Link ✨](https://github.com/mxhuisken/hw19_textEditor)**
 
-**[Deployed Link ✨](X)**
+**[Deployed Link ✨](https://texteditior-hw.herokuapp.com)**
